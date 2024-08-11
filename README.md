@@ -27,7 +27,7 @@ Feel free to explore my repositories and contribute to any of them!
 
 ## 📫 Get in Touch
 
-- **LinkedIn:** [Your LinkedIn Profile](link-to-your-linkedin-profile)
+- **LinkedIn:** [Ahmed Barazenji]([link-to-your-linkedin-profile](https://www.linkedin.com/in/ahmed-barazenji-b0a219231/))
 
 Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate or just want to chat about tech.
 
