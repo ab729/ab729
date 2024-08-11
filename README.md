@@ -16,7 +16,7 @@ Here are some of the projects I'm currently working on:
 
 - [**Autonpmous Driving System**](https://github.com/ab729/OPINA-Simulation-robot): As a part of the OPINA internship project I am developing this robot auto system.
 - [**The Dojo Proejct Managment Sys**](https://github.com/ab729/the-dojo-v2): The final prject of React Firebase cousre by Netninja.
-- [**InventoSys**]([https://github.com/ab729/the-dojo-v2](https://github.com/ab729/Database-Managment-System-Project-InventoSys)): PERN stack database managemnt system.
+- [**InventoSys**](https://github.com/ab729/Database-Managment-System-Project-InventoSys): PERN stack database managemnt system.
 
 
 Feel free to explore my repositories and contribute to any of them!
