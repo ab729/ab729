@@ -24,7 +24,7 @@ Here are some of the projects I'm currently working on:
 
 - **Google Cybersecurity Certificate** - [Credly Badge](https://www.credly.com/badges/16f74215-3dd3-4394-8b94-8fcf89836da0/public_url)
 
-<img src="https://www.credly.com/badges/16f74215-3dd3-4394-8b94-8fcf89836da0/public_url" alt="Google Cybersecurity Certificate" />
+  ![google-cybersecurity-certificate](https://github.com/user-attachments/assets/2a67f1c1-14d4-47b2-b8f5-b7866ebb3382)
 
 
 Feel free to explore my repositories and contribute to any of them!
