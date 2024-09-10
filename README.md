@@ -18,6 +18,13 @@ Here are some of the projects I'm currently working on:
 - [**The Dojo Proejct Managment Sys**](https://github.com/ab729/the-dojo-v2): The final prject of React Firebase cousre by Netninja.
 - [**InventoSys**](https://github.com/ab729/Database-Managment-System-Project-InventoSys): PERN stack database managemnt system.
 
+## 🏅 Certifications
+
+- **AWS Certified Developer Associate DVA-CO2**
+
+- **Google Cybersecurity Certificate** - [Credly Badge](https://www.credly.com/badges/16f74215-3dd3-4394-8b94-8fcf89836da0/public_url)
+
+<img src="https://www.credly.com/badges/16f74215-3dd3-4394-8b94-8fcf89836da0/public_url" alt="Google Cybersecurity Certificate" />
 
 
 Feel free to explore my repositories and contribute to any of them!
