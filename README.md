@@ -19,9 +19,6 @@ Here are some of the projects I'm currently working on:
 - [**InventoSys**](https://github.com/ab729/Database-Managment-System-Project-InventoSys): PERN stack database managemnt system.
 
 
-## 🌟 Certifications
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="16f74215-3dd3-4394-8b94-8fcf89836da0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 Feel free to explore my repositories and contribute to any of them!
 
