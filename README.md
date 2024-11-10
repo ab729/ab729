@@ -22,7 +22,7 @@ Here are some of the projects I'm currently working on:
 
 - **AWS Certified Developer Associate DVA-CO2**
 
-- **Google Cybersecurity Certificate** - [Credly Badge](https://www.credly.com/badges/16f74215-3dd3-4394-8b94-8fcf89836da0/public_url)
+- **Google Cybersecurity Certificate** - [Credly Badge](https://www.credly.com/badges/e02687a4-af32-44c3-9d18-4bccc1ad49fa)
 
   ![google-cybersecurity-certificate](https://github.com/user-attachments/assets/2a67f1c1-14d4-47b2-b8f5-b7866ebb3382)
 
