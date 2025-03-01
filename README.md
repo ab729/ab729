@@ -26,6 +26,8 @@ Here are some of the projects I'm currently working on:
 
   ![google-cybersecurity-certificate](https://github.com/user-attachments/assets/2a67f1c1-14d4-47b2-b8f5-b7866ebb3382)
 - **ISC2 Certified in Cybersecurity** - [Credly Badge](https://www.credly.com/badges/1802c16e-cc08-4922-9620-883d7264faec)
+
+- 
   ![certified-in-cybersecurity-cc (1)](https://github.com/user-attachments/assets/4c98ccae-e41c-4ba8-917a-d35c63ffaeaa)
 
 - **Microsoft Cybersecurity Analyst** - [Credly Badge](https://www.credly.com/badges/b7d5ee0f-8275-47ce-8905-db428bd70178)
