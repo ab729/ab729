@@ -31,6 +31,7 @@ Here are some of the projects I'm currently working on:
   ![certified-in-cybersecurity-cc (1)](https://github.com/user-attachments/assets/4c98ccae-e41c-4ba8-917a-d35c63ffaeaa)
 
 - **Microsoft Cybersecurity Analyst** - [Credly Badge](https://www.credly.com/badges/b7d5ee0f-8275-47ce-8905-db428bd70178)
+- 
   <img width="236" alt="microsoft-cybersecurity-analyst-professional-certif" src="https://github.com/user-attachments/assets/767141cd-5f5f-4d18-a8ae-5b120f0391cc" />
 
 
