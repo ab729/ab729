@@ -1,5 +1,7 @@
 # Hi there, I'm Ahmed Barazenji 
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/a.b729.png" alt="Your Image Badge" />
+
 Welcome to my GitHub profile! I'm a full stack developer with expertise in both the PERN and MERN stacks. I have strong skills with Linux and am currently studying and improving in cybersecurity. Here you'll find some of the projects I've been working on and insights into my tech journey.
 
 ## 🛠️ Technologies & Tools
